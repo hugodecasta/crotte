@@ -1,5 +1,5 @@
 # crotte
-Simple Web Server
+Simple Web Server (Python + front languages)
 
 ## Install
 
