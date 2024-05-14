@@ -1,6 +1,14 @@
 # crotte
 Simple Web Server
 
+## Install
+
+Install the Flask package if not already installed.
+
+```Shell
+pip install flask
+```
+
 ## Launch
 
 ```Shell
